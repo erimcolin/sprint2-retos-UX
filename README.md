@@ -2,8 +2,9 @@
 
 ## Mencionar qué partes conforman el UX y qué partes conforman el UI
 
-### UX:
 
+### UX:
+```
 * La página pueda verse en diferentes dispositivos
 * Se puede compartir en las redes sociales
 * Genera confianza con los ejemplos de las egresadas
@@ -16,9 +17,10 @@
 * La página de las estudiantes explica paso a paso y genera toda la información necesaria para entender de qué va la formación
 * El calendario permite visualizar las fechas disponibles para las distintas sedes
 * La calidad del video depende de la conexión a internet
+```
 
 ### UI:
-
+```
 *  Colores amarillos de acuerdo al logotipo de la página
 * Botones Iniciales que redireccionan a otras páginas de Laboratoria
 * Tamaño de las imágenes
@@ -37,7 +39,7 @@
 * Texto alternativo corto
 * Contiene un video
 * No contiene un área de búsqueda
-
+```
 ## Identificar los elementos de navegación de la página de Github
 
 ### Navegación Global:
@@ -55,3 +57,10 @@
 
 ### Navegación en linea (inline):
 ![Navegacion inline](assets/images/nav-inline.jpg)
+
+
+## Crear un sketch para la herramienta del dashboard de Laboratoria
+
+![imagen dashboard](assets/images/dashboard.jpg)
+
+![imagen dashboard](assets/images/dash.jpg)
